@@ -62,27 +62,29 @@ After examining the dataset, I compared the actual data with the description.
 
 --After examining the dataset, I observed the following characteristics:
 
-- Total number of rows: **284,807**
-- Total number of columns: **31**
-- Feature columns: **Time, V1–V28, Amount**
-- Target variable: **Class**
+- Total number of rows: **  **
+- Total number of columns: ****
+- Feature columns: **   **
+- Target variable: **   **
 - The **Class column is a binary numeric variable** (0 = legitimate, 1 = fraudulent) and is treated as a categorical target in classification tasks.
-- The dataset is **highly imbalanced**, with fraudulent transactions representing approximately **0.17% of the total data**.
+- The dataset is **  **,  **  **.
 
 ### Machine Learning Perspective
 From a machine learning viewpoint, this dataset can be used for:
 
-- **Supervised learning**
-- **Binary classification**
+- **  **
+- **  **
 
-Target variable: **Class**
+Target variable: **  **
 
-Because the dataset is highly imbalanced, common evaluation metrics such as accuracy may not be reliable.  
-Instead, metrics such as **Precision, Recall, F1-score, and Area Under the Precision-Recall Curve (AUPRC)** are more appropriate.
+Because the dataset is .
 
 ### Final Conclusion
 The final conclusion will be provided after completing the full analysis and modelling process.  
 At this stage, the dataset has been examined from a structural and documentation perspective in order to understand its characteristics, limitations, and potential applications in fraud detection.
+
+
+
 
 
 
