@@ -5,9 +5,7 @@ This dataset was collected from Kaggle.
 
 Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
 
----
-
-## 2. What the Creator Says About the Data
+### What the Creator Says About the Data
 Here, I summarise what the dataset creator explains in the Kaggle data card.
 
 ### Why
@@ -29,7 +27,9 @@ Here, I summarise what the dataset creator explains in the Kaggle data card.
 
 ---
 
-## 3. Comparing the Description with the Dataset
+## 2. My Summary of the Dataset
+
+### Comparing the Description with the Dataset
 After examining the dataset, I compared the actual data with the description.
 
 ### Observations not clearly mentioned in the data card
@@ -48,8 +48,7 @@ After examining the dataset, I compared the actual data with the description.
 
   The dataset description does not provide an explanation for the presence of zero-amount transactions.
 
-## 4. My Summary of the Dataset
-After examining the dataset, I observed the following characteristics:
+--After examining the dataset, I observed the following characteristics:
 
 - Total number of rows: **284,807**
 - Total number of columns: **31**
