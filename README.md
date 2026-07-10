@@ -3,7 +3,7 @@
 
 # Summary of 101 Datasets Repository
 
-This repository contains **101 datasets** collected for learning and practicing **data science and data analysis**.
+This repository contains **101 datasets** collected for learning and practicing **Data Science**.
 
 The goal of this project is to explore different types of datasets, understand their structure, and perform basic analysis and experiments.
 
