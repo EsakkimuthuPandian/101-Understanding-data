@@ -62,8 +62,8 @@ After examining the dataset, I compared the actual data with the description.
 
 --After examining the dataset, I observed the following characteristics:
 
-- Total number of rows: **  **
-- Total number of columns: ****
+- Total number of rows: ** 234 **
+- Total number of columns: ** 17 **
 - Feature columns: **   **
 - Target variable: **   **
 - The **Class column is a binary numeric variable** (0 = legitimate, 1 = fraudulent) and is treated as a categorical target in classification tasks.
