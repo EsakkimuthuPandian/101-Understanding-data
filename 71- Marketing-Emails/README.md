@@ -1,7 +1,7 @@
 # Dataset Story
 
 ## 1. Dataset Source
-This dataset was collected from "Kaggle".
+This dataset was collected from "Hugging Face".
 
 Link: https://huggingface.co/datasets/marketeam/Marketing-Emails
 
